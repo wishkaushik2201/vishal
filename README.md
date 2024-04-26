@@ -1,4 +1,4 @@
-# Vishal
+# Vishal Sharma's Portfolio
 
 Welcome to my GitHub portfolio! Here you'll find information about me, my skills, education, and work experience.
 
@@ -8,21 +8,19 @@ Welcome to my GitHub portfolio! Here you'll find information about me, my skills
 - Address: House no. 61, Nyadar Ganj, Near Central Bank of India, Dadri, 203207(U.P)
 
 ## Skills
-- Python (Django)
-- Node.js, Express, JavaScript, jQuery
-- PHP, Laravel
-- API, Restful API
-- Microsoft SQL, MySQL, MongoDB
-- Basic C, Basic HTML, CSS, Bootstrap
+- **Python (Django)** ![Python](python_logo.png)
+- **Node.js, Express, JavaScript, jQuery**
+- **PHP, Laravel**
+- **API, Restful API**
+- **Microsoft SQL, MySQL, MongoDB**
+- **Basic C, Basic HTML, CSS, Bootstrap**
 
 ## Education
 - B.Tech in Electronic and Communication Engineering
   - Dr. A.P.J Abdul Kalam Technical University
   - May 2016 with 66.6%
-- 12th: Anshu Public Inter College, 2012
-  - Physics, Chemistry, and Math
-- 10th: Anshu Public Inter College, 2010
-  - Science
+- 12th: Anshu Public Inter College, 2012 - Physics, Chemistry, and Math
+- 10th: Anshu Public Inter College, 2010 - Science
 
 ## Work Experience
 ### Executive Software Developer
@@ -50,6 +48,7 @@ Welcome to my GitHub portfolio! Here you'll find information about me, my skills
   - Collaborated with cross-functional teams to handle electricity meter data and upload it to SAP for accurate record-keeping.
   - Utilized MS Excel for data analysis and generating insightful reports that aid decision-making processes.
   - Facilitated seamless communication by distributing daily data and analysis sheets to Tata employees and uploading them to the online SAP system.
+ 
 
 
 
