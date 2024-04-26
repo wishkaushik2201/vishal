@@ -51,6 +51,8 @@ Welcome to my GitHub portfolio! Here you'll find information about me, my skills
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wishkaushik2201) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vishal-sharma-964bb2b9) 
+[!Python](https://img.shields.io/nostr-band/followers/Python?style=flat-square&logo=Python&logoColor=Blue&label=Python&labelColor=abcdef&color=blue&cacheSeconds=3600&link=%3Cobject%3E)
+
 
 
 
