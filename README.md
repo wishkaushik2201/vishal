@@ -19,6 +19,10 @@ Welcome to my GitHub portfolio! Here you'll find information about me, my skills
 - B.Tech in Electronic and Communication Engineering
   - Dr. A.P.J Abdul Kalam Technical University
   - May 2016 with 66.6%
+- 12th: Anshu Public Inter College, 2012
+  - Physics, Chemistry, and Math
+- 10th: Anshu Public Inter College, 2010
+  - Science
 
 ## Work Experience
 ### Executive Software Developer
@@ -47,8 +51,6 @@ Welcome to my GitHub portfolio! Here you'll find information about me, my skills
   - Utilized MS Excel for data analysis and generating insightful reports that aid decision-making processes.
   - Facilitated seamless communication by distributing daily data and analysis sheets to Tata employees and uploading them to the online SAP system.
 
-## Education
-- 12th: Anshu Public Inter College, 2012 - Physics, Chemistry, and Math
-- 10th: Anshu Public Inter College, 2010 - Science
+
 
 Feel free to explore my projects and reach out to me for collaborations or inquiries!
