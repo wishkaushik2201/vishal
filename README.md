@@ -10,7 +10,7 @@ Welcome to my GitHub portfolio! Here you'll find information about me, my skills
 ## Skills
 - **(Django)** ![Python](https://img.shields.io/nostr-band/followers/npub18c556t7n8xa3df2q82rwxejfglw5przds7sqvefylzjh8tjne28qld0we7?style=flat-square&logo=Python&logoColor=Blue&label=Python&labelColor=abcdef&color=blue&cacheSeconds=3600&link=%3Cobject%3E
 )
-- **[Express](https://img.shields.io/badge/Express.js-6DA55F%2Cfor%20the%20badge%2Cwhite?style=social&logo=node.js&logoColor=green&labelColor=White&cacheSeconds=3600
+- **![Express](https://img.shields.io/badge/Express.js-6DA55F%2Cfor%20the%20badge%2Cwhite?style=social&logo=node.js&logoColor=green&labelColor=White&cacheSeconds=3600
 ), JavaScript, jQuery**![NodeJS](https://img.shields.io/badge/Node.js-6DA55F%2Cfor%20the%20badge%2Cwhite?style=social&logo=node.js&logoColor=green&labelColor=White&cacheSeconds=3600)
 - **PHP, Laravel**
 - **API, Restful API**
