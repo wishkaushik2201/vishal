@@ -1,4 +1,4 @@
-- 12th: An# Vishal Sharma's Portfolio
+# Vishal Sharma's Portfolio
 
 Welcome to my GitHub portfolio! Here you'll find information about me, my skills, education, and work experience.
 
