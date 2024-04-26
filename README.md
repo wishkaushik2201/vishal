@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio! Here you'll find information about me, my skills
 - Address: House no. 61, Nyadar Ganj, Near Central Bank of India, Dadri, 203207(U.P)
 
 ## Skills
-- **Python (Django)** ![Python](https://img.shields.io/nostr-band/followers/npub18c556t7n8xa3df2q82rwxejfglw5przds7sqvefylzjh8tjne28qld0we7?style=flat-square&logo=Python&logoColor=Blue&label=Python&labelColor=abcdef&color=blue&cacheSeconds=3600&link=%3Cobject%3E
+- **(Django)** ![Python](https://img.shields.io/nostr-band/followers/npub18c556t7n8xa3df2q82rwxejfglw5przds7sqvefylzjh8tjne28qld0we7?style=flat-square&logo=Python&logoColor=Blue&label=Python&labelColor=abcdef&color=blue&cacheSeconds=3600&link=%3Cobject%3E
 )
 - **Node.js, Express, JavaScript, jQuery**
 - **PHP, Laravel**
