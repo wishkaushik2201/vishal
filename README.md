@@ -49,6 +49,8 @@ Welcome to my GitHub portfolio! Here you'll find information about me, my skills
   - Utilized MS Excel for data analysis and generating insightful reports that aid decision-making processes.
   - Facilitated seamless communication by distributing daily data and analysis sheets to Tata employees and uploading them to the online SAP system.
  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wishkaushik2201) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vishal-sharma-964bb2b9) 
 
 
 
